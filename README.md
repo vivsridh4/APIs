@@ -16,7 +16,7 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 * Migrate to serverless by refactoring Node.js and Express APIs - [Tutorial](https://johnpapa.net/refactor-your-node-js-and-express-apis-to-serverless-apis-with-azure-functions/)
 * Blazor app workshop - you'll learn to build a complete Blazor app and learn about Blazor framework - [Workshop](https://github.com/dotnet-presentations/blazor-workshop/)
 
-### API Development - Videos
+### API Development - Videos (hands on vivsridh5)
 
 * Learn how to create a holiday selfie with Azure Cognitive Services and Microsoft Face API - [Video](https://www.youtube.com/watch?v=WQRK0UbNKOo)
 * Ryan Nowak explains what endpoint routing is, what it can do, and how you can use it - [Video](https://channel9.msdn.com/Shows/On-NET/ASPNET-Core-Series-Endpoint-Routing)
@@ -31,6 +31,8 @@ Serverless progamming model learning collection by Vivek Sridhar - [Collection](
 ### API Development Code Samples for Developers
 
 Code samples for API development & Azure functions - [code sample](https://docs.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-api-management%2Cazure-functions)
+
+### Local Content ()
 
 
 
